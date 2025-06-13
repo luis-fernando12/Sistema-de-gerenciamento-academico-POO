@@ -27,9 +27,3 @@ Projeto em Java desenvolvido como prática de Programação Orientada a Objetos 
 - `service/`: Lógica do sistema
 - `ui/`: Interface via terminal
 
-## Execução
-
-Para compilar e rodar:
-```bash
-javac src/Main.java
-java Main
