@@ -1,9 +1,9 @@
 # Componentes:
-Marcilene Castro Sarubi
-Bruno Cruz Macedo Gomes
-Emilly Santos Moreira da Silva
-Luís Fernando Barreto de Souza Santos
-Luan Menezes dos Santos
+Marcilene Castro Sarubi,
+Bruno Cruz Macedo Gomes,
+Emilly Santos Moreira da Silva,
+Luís Fernando Barreto de Souza Santos,
+Luan Menezes dos Santos,
 
 # Gerenciador Acadêmico
 
